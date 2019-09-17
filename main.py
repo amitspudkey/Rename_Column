@@ -1,6 +1,5 @@
 from tkinter import Tk
 from tkinter.filedialog import asksaveasfilename, askopenfilename
-from shutil import copyfileobj
 
 
 def main():
