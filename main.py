@@ -4,7 +4,7 @@ from tkinter.filedialog import asksaveasfilename, askopenfilename
 
 def main():
     print("Program: Column Rename")
-    print("Release: 0.1.0")
+    print("Release: 0.1.1")
     print("Date: 2019-09-17")
     print("Author: Brian Neely")
     print()
